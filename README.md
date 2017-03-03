@@ -1,4 +1,4 @@
-# SampleLanguage
+# Antlr-example
 
   This project has the sample code for parsing a custom language using Antlr 4.
   
